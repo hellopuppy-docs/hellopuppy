@@ -1,5 +1,6 @@
-# Page 2
+---
+description: 헬로퍼피 FAQ
+---
 
-＼_literal asterisks＼_ _literal asterisks_ **＼**_**＼Text＼＼**_ _＼Tom＼_
+# 헬로퍼피 시작하기
 
-GitHub supports emoji! :thumbsup: :sparkles: :camel: :tada: :rocket: :metal: :octocat: :apple: 👏

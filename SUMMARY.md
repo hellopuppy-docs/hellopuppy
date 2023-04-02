@@ -1,5 +1,5 @@
 # Table of contents
 
-* [hellopuppy](README.md)
-* [Page 1](page-1.md)
-* [Page 2](page-2.md)
+* [기본정보](README.md)
+* [가입 및 운용](page-1.md)
+* [헬로퍼피 시작하기](page-2.md)
